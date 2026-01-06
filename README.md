@@ -5,8 +5,11 @@ The objective of this project is to perform end‑to‑end data analysis using P
 
 **Dataset Description**
 1.Source: CSV file provided for analysis
+
 2.The dataset contains multiple numerical and categorical features
+
 3.Target variable is analyzed and predicted using machine learning models
+
 4.The dataset is first cleaned and prepared before analysis.
 
 **Business Context**
